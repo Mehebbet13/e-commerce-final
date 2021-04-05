@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "980930060597",
+    "firebase_url": "https://my-project-aysel.firebaseio.com",
+    "project_id": "my-project-aysel",
+    "storage_bucket": "my-project-aysel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980930060597:android:dc3b7c38458f033bc4ac7c",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980930060597-e01sfs47ejvj95l21q1b8q6l3m4ms8o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdkW2iftw70Kk44QL7kgruywEbrxcXc4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980930060597-e01sfs47ejvj95l21q1b8q6l3m4ms8o6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
