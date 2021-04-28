@@ -17,3 +17,7 @@ j
 :app/src/main/java/com/example/e_commerce/ui/BagFragment.kt,3/6/361fc8d5f4a96f93ef8ba3542562132d0c87d0eb
 p
 @app/src/main/java/com/example/e_commerce/ui/FavoritesFragment.kt,e/f/efdeaec87d891f6d8a6fba32defd50941e42dbe8
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+S
+#app/src/main/res/values/strings.xml,d/2/d2281fbb3027de2722081a53408dd77628bf080e

@@ -29,6 +29,7 @@
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
+            android:background="@drawable/navbar_background"
             app:menu="@menu/navigation_bottom_menu">
 
         </com.google.android.material.bottomnavigation.BottomNavigationView>
