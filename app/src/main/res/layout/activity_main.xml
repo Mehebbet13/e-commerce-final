@@ -12,7 +12,7 @@
 
         <fragment
             android:id="@+id/navhost_fragment"
-            android:name="androidx.navigation.fragment.NavHostFragment"
+            class ="androidx.navigation.fragment.NavHostFragment"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             app:defaultNavHost="true"
@@ -30,6 +30,8 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             android:background="@drawable/navbar_background"
+            app:itemIconTint="#FFFFFF"
+            app:itemTextColor="#FFFFFF"
             app:menu="@menu/navigation_bottom_menu">
 
         </com.google.android.material.bottomnavigation.BottomNavigationView>
